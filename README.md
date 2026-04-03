@@ -74,13 +74,12 @@ playlist table → stores songs per user
 
 📸 Screenshots
 
-👉 (Add screenshots here from your app for marks)
+<img width="479" height="267" alt="image" src="https://github.com/user-attachments/assets/b08a3b4b-2fef-471b-8bc8-f5f785a70a95" />
 
-Example:
+<img width="973" height="620" alt="image" src="https://github.com/user-attachments/assets/c5cb04e9-068c-4f87-ab2e-440197fd7083" />
 
-Login Screen
-Music Player Interface
-Playlist View
+<img width="982" height="619" alt="image" src="https://github.com/user-attachments/assets/aa47dddc-0d21-4101-8b51-67c14b2c66aa" />
+
 
 ▶️ How to Run
 
